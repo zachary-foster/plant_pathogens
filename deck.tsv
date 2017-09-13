@@ -1,41 +1,50 @@
-front	back	source	source_url
-Ralstonia solanacearum	Causes bacterial wilt in a very wide range of potential host plants		
-Ralstonia solanacearum	Known as southern wilt, bacterial wilt, brown rot of potato, and Granville wilt when it occurs in tobacco		
-Ralstonia solanacearum	Phylum: Proteobacteria		
-Ralstonia solanacearum	ralstonia_solanacearum_1.jpg	Clemson University	https://commons.wikimedia.org/wiki/File:Ralstonia_solanacearum_symptoms.jpg
-Ralstonia solanacearum	ralstonia_solanacearum_2.jpg	Clemson University - USDA Cooperative Extension Slide Series	https://commons.wikimedia.org/wiki/File:Ralstonis_wilt_symptom.jpg
-Erwinia amylovora	Causes fireblight of apples and pears		
-Erwinia amylovora	Phylum: Proteobacteria		
-Erwinia amylovora	erwinia_amylovora_1.jpg	Wikipedia user: Sebastian Stabinger	https://commons.wikimedia.org/wiki/File:Apple_tree_with_fire_blight.jpg
-Erwinia amylovora	erwinia_amylovora_2.png	Wikipedia user: Ninjatacoshell	https://commons.wikimedia.org/wiki/File:Fire_blight_(Erwinia_amylovora)_of_pear.png
-Erwinia amylovora	erwinia_amylovora_3.jpg	Peggy Greb	https://commons.wikimedia.org/wiki/File:Severe_fire_blight_infection_on_apples.jpg
-Erwinia amylovora	erwinia_amylovora_4.jpg	Flickr user: Scot Nelson	https://www.flickr.com/photos/scotnelson/14415442736
-Erwinia amylovora	Large epiphytic populations on stigmas of flowers leads to infection		
-Mycosphaerella graminicola	Correct taxonomic name: Zymoseptoria tritici		
-Mycosphaerella graminicola	Phylum: Ascomycota		
-Mycosphaerella graminicola	Infects through stomata		
-Mycosphaerella graminicola	The primary foliar disease of winter wheat in most western European countries		
-Mycosphaerella graminicola	Causes septoria leaf blotch		
-Mycosphaerella graminicola	Causes necrotic blotches on wheat leaves		
-Mycosphaerella graminicola	mycosphaerella_graminicola_1.jpg	Maccheek	https://commons.wikimedia.org/wiki/File:Septoria-tritici.jpg
-Mycosphaerella graminicola	mycosphaerella_graminicola_2.jpg	Flickr user: CropShot	https://www.flickr.com/photos/cropshot/25179841425/
-Phaeosphaeria nodorum	Correct taxonomic name: Parastagonospora nodorum		
-Phaeosphaeria nodorum	Phylum: Ascomycota		
-Phaeosphaeria nodorum	A major fungal pathogen of wheat		
-Phaeosphaeria nodorum	Causes glume blotch or Septoria nodorum blotch 		
-Phaeosphaeria nodorum	phaeosphaeria_nodorum_1.jpg	Alchetron user: Harman Patil	https://alchetron.com/Phaeosphaeria-nodorum-4120906-W#-
-Phaeosphaeria nodorum	phaeosphaeria_nodorum_2.jpg	Alchetron user: Harman Patil	https://alchetron.com/Phaeosphaeria-nodorum-4120906-W#-
-Phaeosphaeria nodorum	phaeosphaeria_nodorum_3.jpg	Alchetron user: Harman Patil	https://alchetron.com/Phaeosphaeria-nodorum-4120906-W#-
-Puccinia striiformis	Causes stripe rust on wheat		
-Puccinia striiformis	Phylum: Basidiomycota		
-Puccinia striiformis	puccinia_striiformis_1.jpg		https://commons.wikimedia.org/wiki/File:Stripe_rust.jpg
-Puccinia striiformis	puccinia_striiformis_2.jpg	Thomas Lumpkin / CIMMYT	https://www.flickr.com/photos/cimmyt/5123743683
-Puccinia striiformis	puccinia_striiformis_3.jpg	Petr Kosina / CIMMYT	https://www.flickr.com/photos/cimmyt/5755541508
-Puccinia striiformis	puccinia_striiformis_4.jpg	CIMMYT	https://www.flickr.com/photos/cimmyt/5071563735
-Blumeria graminis	barley powdery mildew		
-Blumeria graminis	corn mildew		
-Blumeria graminis	Phylum: Ascomycota		
-Blumeria graminis	causes powdery mildew on grasses		
-Blumeria graminis	blumeria_graminis_1.jpg	Clemson University - USDA Cooperative Extension Slide Series, Bugwood.org	https://commons.wikimedia.org/wiki/File:Barleypowderymildew.jpg
-Blumeria graminis	blumeria_graminis_2.jpg	Alchetron user: Puneet Varma	https://alchetron.com/Blumeria-graminis-1940649-W#-
-Blumeria graminis	blumeria_graminis_3.jpg	Alchetron user: Puneet Varma	https://alchetron.com/Blumeria-graminis-1940649-W#-
+front	back	difficulty	source	source_url
+Ralstonia solanacearum	Causes bacterial wilt in a very wide range of potential host plants	1		
+Ralstonia solanacearum	Known as southern wilt, bacterial wilt, brown rot of potato, and Granville wilt when it occurs in tobacco	1		
+Ralstonia solanacearum	Phylum: Proteobacteria	3		
+Ralstonia solanacearum	ralstonia_solanacearum_1.jpg	2	Clemson University	https://commons.wikimedia.org/wiki/File:Ralstonia_solanacearum_symptoms.jpg
+Ralstonia solanacearum	ralstonia_solanacearum_2.jpg	2	Clemson University - USDA Cooperative Extension Slide Series	https://commons.wikimedia.org/wiki/File:Ralstonis_wilt_symptom.jpg
+Erwinia amylovora	Causes fireblight of apples and pears	1		
+Erwinia amylovora	Phylum: Proteobacteria	3		
+Erwinia amylovora	erwinia_amylovora_1.jpg	2	Wikipedia user: Sebastian Stabinger	https://commons.wikimedia.org/wiki/File:Apple_tree_with_fire_blight.jpg
+Erwinia amylovora	erwinia_amylovora_2.png	2	Wikipedia user: Ninjatacoshell	https://commons.wikimedia.org/wiki/File:Fire_blight_(Erwinia_amylovora)_of_pear.png
+Erwinia amylovora	erwinia_amylovora_3.jpg	2	Peggy Greb	https://commons.wikimedia.org/wiki/File:Severe_fire_blight_infection_on_apples.jpg
+Erwinia amylovora	erwinia_amylovora_4.jpg	2	Flickr user: Scot Nelson	https://www.flickr.com/photos/scotnelson/14415442736
+Erwinia amylovora	Large epiphytic populations on stigmas of flowers leads to infection	1		
+Mycosphaerella graminicola	Correct taxonomic name: Zymoseptoria tritici	4		
+Mycosphaerella graminicola	Phylum: Ascomycota	3		
+Mycosphaerella graminicola	Infects through stomata	2		
+Mycosphaerella graminicola	The primary foliar disease of winter wheat in most western European countries	2		
+Mycosphaerella graminicola	Causes septoria leaf blotch	2		
+Mycosphaerella graminicola	Causes necrotic blotches on wheat leaves	2		
+Mycosphaerella graminicola	mycosphaerella_graminicola_1.jpg	2	Maccheek	https://commons.wikimedia.org/wiki/File:Septoria-tritici.jpg
+Mycosphaerella graminicola	mycosphaerella_graminicola_2.jpg	2	Flickr user: CropShot	https://www.flickr.com/photos/cropshot/25179841425/
+Phaeosphaeria nodorum	Correct taxonomic name: Parastagonospora nodorum	2		
+Phaeosphaeria nodorum	Phylum: Ascomycota	3		
+Phaeosphaeria nodorum	A major fungal pathogen of wheat	1		
+Phaeosphaeria nodorum	Causes glume blotch or Septoria nodorum blotch 	1		
+Phaeosphaeria nodorum	phaeosphaeria_nodorum_1.jpg	2	Alchetron user: Harman Patil	https://alchetron.com/Phaeosphaeria-nodorum-4120906-W#-
+Phaeosphaeria nodorum	phaeosphaeria_nodorum_2.jpg	2	Alchetron user: Harman Patil	https://alchetron.com/Phaeosphaeria-nodorum-4120906-W#-
+Phaeosphaeria nodorum	phaeosphaeria_nodorum_3.jpg	2	Alchetron user: Harman Patil	https://alchetron.com/Phaeosphaeria-nodorum-4120906-W#-
+Puccinia striiformis	Causes stripe rust on wheat	2		
+Puccinia striiformis	Phylum: Basidiomycota	3		
+Puccinia striiformis	puccinia_striiformis_1.jpg	2		https://commons.wikimedia.org/wiki/File:Stripe_rust.jpg
+Puccinia striiformis	puccinia_striiformis_2.jpg	2	Thomas Lumpkin / CIMMYT	https://www.flickr.com/photos/cimmyt/5123743683
+Puccinia striiformis	puccinia_striiformis_3.jpg	2	Petr Kosina / CIMMYT	https://www.flickr.com/photos/cimmyt/5755541508
+Puccinia striiformis	puccinia_striiformis_4.jpg	2	CIMMYT	https://www.flickr.com/photos/cimmyt/5071563735
+Blumeria graminis	barley powdery mildew	1		
+Blumeria graminis	corn mildew	1		
+Blumeria graminis	Phylum: Ascomycota	3		
+Blumeria graminis	causes powdery mildew on grasses	1		
+Blumeria graminis	blumeria_graminis_1.jpg	2	Clemson University - USDA Cooperative Extension Slide Series, Bugwood.org	https://commons.wikimedia.org/wiki/File:Barleypowderymildew.jpg
+Blumeria graminis	blumeria_graminis_2.jpg	2	Alchetron user: Puneet Varma	https://alchetron.com/Blumeria-graminis-1940649-W#-
+Blumeria graminis	blumeria_graminis_3.jpg	2	Alchetron user: Puneet Varma	https://alchetron.com/Blumeria-graminis-1940649-W#-
+Phaeocryptopus gaeumannii	Swiss Needle Cast	1		
+Phaeocryptopus gaeumannii	Causes chlorotic needles and decreased needle retention in Doug Fir	2		
+Phaeocryptopus gaeumannii	Native to the western United States	4		
+Phaeocryptopus gaeumannii	phaeocryptopus_gaeumannii_1.jpg	2	Oregon State University	http://sncc.forestry.oregonstate.edu/
+Phaeocryptopus gaeumannii	phaeocryptopus_gaeumannii_2.jpg	3	Oregon State University	http://sncc.forestry.oregonstate.edu/
+Phaeocryptopus gaeumannii	phaeocryptopus_gaeumannii_3.jpg	2	USDA Forest Service Archive	https://sv.wikipedia.org/wiki/Fil:Swiss-needle-cast-on-Douglas-fir-Phaeocryptopus-gaeumannii-close-up.jpg
+Phaeocryptopus gaeumannii	phaeocryptopus_gaeumannii_4.jpg	2	Evergreen college	http://blogs.evergreen.edu/fiseva21/?p=80
+Phaeocryptopus gaeumannii	phaeocryptopus_gaeumannii_5.jpg	2	USDA Forest Service Archive	http://pubs.extension.oregonstate.edu/pnw659/diseases/swiss-needle-cast
+Phaeocryptopus gaeumannii	Phylum: Ascomycota	3		
